@@ -1,4 +1,4 @@
-TESTING
+TESTING2
 
 # [Sourcegraph](https://sourcegraph.com) CLI [![Build Status](https://travis-ci.org/sourcegraph/src-cli.svg)](https://travis-ci.org/sourcegraph/src-cli) [![Go Report Card](https://goreportcard.com/badge/sourcegraph/src-cli)](https://goreportcard.com/report/sourcegraph/src-cli)
 
